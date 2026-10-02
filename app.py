@@ -10,7 +10,7 @@ from io import BytesIO
 # =========================================================
 
 st.set_page_config(
-    page_title="Quán Trà Sữa",
+    page_title="Quán Trà Sữa Dương dễ thương",
     page_icon="🧋",
     layout="wide"
 )
